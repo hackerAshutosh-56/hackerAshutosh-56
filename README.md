@@ -67,5 +67,5 @@ House price prediction using Linear Regression.
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
+- LinkedIn - in/ashutosh-dixit-056275300
+- GitHub - https://github.com/hackerAshutosh-56
